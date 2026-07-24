@@ -7,6 +7,7 @@ Try it on:
 
 * [Swedish "landskap"](https://uablrek.github.io/landskap/landskap.html)
 * [Peruvian regions](https://uablrek.github.io/landskap/peru.html)
+* [South America](https://uablrek.github.io/landskap/south-america.html)
 
 ## Maps
 
@@ -18,6 +19,7 @@ The maps are derived from:
 
 * [Sweden](http://commons.wikimedia.org/wiki/File:Sverigekarta-Landskap.svg)
 * [Perú](https://commons.wikimedia.org/wiki/File:Peru_-_%28Template%29.svg)
+* [South America](https://freesvg.org/vector-image-of-map-of-south-america-states)
 
 The original maps are created with [Inkscape](https://inkscape.org/),
 and should be cleaned with [svgo](https://svgo.dev/):
